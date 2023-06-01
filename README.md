@@ -131,6 +131,7 @@ RegisterNumber:  212222230013
 ![image](https://github.com/arunkumarsukdevchavan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343978/a6361901-5961-4218-b6fc-5181c3ba27d4)
 
 ### T FLIPFLOP PROGRAM:
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopT/Screenshot%20(63).png)
 
 ### RTL LOGIC FOR FLIPFLOPS
 ### D FLIPFLOP RTL:
