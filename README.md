@@ -146,8 +146,6 @@ RegisterNumber:  212222230013
 
 
 ### T FLIPFLOP RTL:
-
-
 ![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopT/Screenshot%20(63).png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
