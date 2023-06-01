@@ -137,27 +137,30 @@ RegisterNumber:  212222230013
 
 
 ### SR FLIPFLOP RTL:
-
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopsr/Screenshot%20(54).png)
 
 
 ### T FLIPFLOP RTL:
 
+
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopT/Screenshot%20(64).png)
+
 ### TIMING DIGRAMS FOR FLIP FLOPS
 ### D FLIPFLOP TIMING DIAGRAMS:
-
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopD/Screenshot%20(62).png)
 
 
 ### JK FLIPFLOP TIMING DIAGRAMS:
-
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopjk/Screenshot%20(59).png)
 
 
 ### SR FLIPFLOP TIMING DIAGRAM:
-
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopsr/Screenshot%20(56).png)
 
 
 ### T FLIPFLOP TIMING DIAGRAM:
 
-
+![image](https://github.com/srikarthickeyanganapathy/Experiment--05-Implementation-of-flipflops-using-verilog/raw/main/flipflopT/Screenshot%20(65).png)
 
 
 
